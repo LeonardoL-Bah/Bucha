@@ -1,1 +1,1 @@
-console.log(ai.nobru.apelao)
+console.log()
